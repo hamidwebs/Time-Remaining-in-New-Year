@@ -2,7 +2,9 @@
 
 Time Remaining in New Year is a simple web application that calculates and displays the countdown to the upcoming New Year's Day. It provides users with the precise amount of time remaining until the start of the new year, making it easy to track and anticipate the arrival of the new year.
 
-![Time Remaining in New Year Screenshot](time_remaining_in_new_year_screenshot.png)
+## ScreenShot
+
+![Time Remaining in New Year Screenshot](/ScreenShot.png)
 
 ## Technologies Used
 
